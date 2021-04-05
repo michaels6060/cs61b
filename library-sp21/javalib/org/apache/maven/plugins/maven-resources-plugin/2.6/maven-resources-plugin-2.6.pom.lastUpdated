@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 27 22:44:11 EST 2021
+https\://nexusmaster.productivity.cc.sfdcsb.net/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.6 from/to dw-public (https\://nexusmaster.productivity.cc.sfdcsb.net/nexus/content/groups/public)\: Transfer failed for https\://nexusmaster.productivity.cc.sfdcsb.net/nexus/content/groups/public/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+26b2f00bb8f9c4285b4a55b67af6125437659811@default-dw-public-https\://nexusmaster.productivity.cc.sfdcsb.net/nexus/content/groups/public/.lastUpdated=1614483851042
