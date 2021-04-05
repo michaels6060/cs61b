@@ -1,0 +1,15 @@
+*.class
+*.jar
+*.iml
+target/
+org.eclipse.core.resources.prefs
+**/.classpath
+**/bin
+**/.settings
+.settings
+**/.project
+.project
+.idea
+*.log
+
+**/.localstack/
